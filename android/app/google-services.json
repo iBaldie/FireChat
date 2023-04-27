@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "65862726929",
+    "project_id": "firechat-90238",
+    "storage_bucket": "firechat-90238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65862726929:android:02cb85e30cc1a78d2cc8b0",
+        "android_client_info": {
+          "package_name": "dev.ibaldie.firechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65862726929-lop42c6n9rg2ait0nvt6ub6lld3jqc1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6MOpjSWWBN1zdPCauvI7Y3YwxnibpTQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65862726929-lop42c6n9rg2ait0nvt6ub6lld3jqc1l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "65862726929-nvk93kegb3mto28j7m4d0al40haa9akb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.ibaldie.firechat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
